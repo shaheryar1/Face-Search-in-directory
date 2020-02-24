@@ -32,3 +32,4 @@ A software that allows you to filter the photos in which a specific person is pr
   You can download the .exe file for windows only from my [drive](https://drive.google.com/open?id=18A-ki_xGYeVsdGovLLBhGkuQ7y9RiNCI)
  
  # Usage
+ 
