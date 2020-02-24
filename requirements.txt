@@ -1,0 +1,6 @@
+numpy
+opencv-python
+dlib
+face_recognition
+PyQt5==5.14
+
